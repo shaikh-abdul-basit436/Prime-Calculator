@@ -3,6 +3,7 @@
   <component name="DeviceStreaming">
     <option name="deviceSelectionList">
       <list>
+        
         <PersistentDeviceSelectionData>
           <option name="api" value="34" />
           <option name="brand" value="Sony" />
