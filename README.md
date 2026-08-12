@@ -65,7 +65,6 @@ Prime Calculator features a clean, modern interface focused on usability.
 
 * 🌙 Dark-themed design
 * 🔘 Rounded calculator buttons
-* ✨ Button animations
 * 🔄 Smooth navigation
 * 📱 Responsive layouts
 * 🎯 Clear visual hierarchy
